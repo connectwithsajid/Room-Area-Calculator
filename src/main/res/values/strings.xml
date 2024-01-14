@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ARCA</string>
+    <string name="start_raspberry_pi">Start Raspberry Pi</string>
+    <string name="starting_raspberry_pi">Starting Raspberry Pi</string>
+</resources>

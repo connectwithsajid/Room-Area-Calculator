@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "966070248687",
+    "firebase_url": "https://arca-5c255.firebaseio.com",
+    "project_id": "arca-5c255",
+    "storage_bucket": "arca-5c255.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:966070248687:android:8bf9a2ca418f8c9d05271a",
+        "android_client_info": {
+          "package_name": "com.arca_room_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "966070248687-5n63o3qkiptng44s7bogd4hu5qm636bd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.arca",
+            "certificate_hash": "eee71aea6baf629d89d0ca1a9500ea1f5ed65a1f"
+          }
+        },
+        {
+          "client_id": "966070248687-1veleg2eof3h8hrkpndu1b13i377qv8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC31V656a6rSXBiT2DSHF8YZX30Nu1Hqi8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "966070248687-1veleg2eof3h8hrkpndu1b13i377qv8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
